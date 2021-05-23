@@ -1,8 +1,8 @@
-# AngelaValbuenaAPI_Final_Exam
+# Rest Assured project
 
-#Ejecutar las Pruebas
-Precondición para ejecutar:
-Tener Maven instalado en la máquina que ejecutará la suite de TestNG
-1. Abrir el proyecto Maven en el IDE preferido.
-2. Descargar las dependencias maven especificadas en el POM
-3. Ejecutar la Suite.xml de TestNG en la consola el comando "mvn test"  
+#Run the tests
+Preconditions to run:
+Maven installed on local machine to run the TestNG suite
+1. Open the project in the prefered IDE (IntelliJ, Eclipse, etc)
+2. Download the dependencies specified in the POM
+3. Run the TestNG Suite.xml from any terminal with the command "mvn test"  
