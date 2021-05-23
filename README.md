@@ -1,6 +1,6 @@
 # Rest Assured project
 
-#Run the tests
+# Run the tests
 Preconditions to run:
 Maven installed on local machine to run the TestNG suite
 1. Open the project in the prefered IDE (IntelliJ, Eclipse, etc)
